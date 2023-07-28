@@ -1,0 +1,25 @@
+html, body {
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    background-color: #050019;    
+    color: hsl(215, 51%, 70%);
+    justify-content: center;
+    align-items: center;    
+    padding: 1rem;
+  }
+  #root{
+    width: 100%;
+  }
+  .logo-wrapper{
+    margin:0;
+    display: flex;
+    justify-content: center;
+  }
+  .logo{
+    width: 100%;
+  }
+  /*
+  Aquí van los estilos
+*/
